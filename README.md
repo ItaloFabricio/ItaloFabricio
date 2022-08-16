@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hey stranger 👋
 
-<!--
-**ItaloFabricio/ItaloFabricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oi visitante, me chamo ítalo Fabrício 😉. Sou um webdesigner apaixonado por estudar interações entre pessoas e interfaces. 🕵️‍♂️
 
-Here are some ideas to get you started:
+*" Os pequenos detalhes são sempre os mais importantes. "
+                             	-  Sherlock Holmes* 🔍
+### 🐰 Informações básicas
+* 🌵 From PB 083
+* 🌈 Front End & UI Designer 
+* 💻 Graduando em Ciência da Computação
+* 🧑 Pronomes: ele/dele
+* ⚡ Curiosidade: gosto de livros de terror e podcast criminais 👻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐹 Aprendendo no momento
+* ☕️ POO ( com Java)
+* ✨ HTML, CSS, SASS - Grid Layout, Funções no SASS
+* ⭐️ JavaScript 
+* 💖 Usabilidade (UX) - Boas práticas
+
+### 🙋🏻‍♂️ Vamos conversar
