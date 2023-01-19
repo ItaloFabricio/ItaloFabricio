@@ -1,6 +1,6 @@
 # Hey stranger 👋
 
-Oi visitante, me chamo ítalo Fabrício 😉. Sou um webdesigner apaixonado por estudar interações entre pessoas e interfaces. 🕵️‍♂️
+Oi visitante, me chamo ítalo Fabrício 😉. Sou um estudante de programação apaixonado por estudar interações entre pessoas e sistemas. 🕵️‍♂️
 
 *" Os pequenos detalhes são sempre os mais importantes. "
                              	-  Sherlock Holmes* 🔍
