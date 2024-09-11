@@ -6,7 +6,7 @@ Oi visitante, me chamo ítalo Fabrício 😉. Sou um estudante de programação 
                              	-  Sherlock Holmes* 🔍
 ### 🐰 Informações básicas
 * 🌵 From PB 083
-* 🌈 Front End & UI Designer 
+* 🌐 Desenvolvedor Web 
 * 💻 Graduando em Ciência da Computação
 * 🧑 Pronomes: ele/dele
 * ⚡ Curiosidade: gosto de livros de terror e podcast criminais 👻
