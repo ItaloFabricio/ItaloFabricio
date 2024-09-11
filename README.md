@@ -11,10 +11,10 @@ Oi visitante, me chamo ítalo Fabrício 😉. Sou um estudante de programação 
 * 🧑 Pronomes: ele/dele
 * ⚡ Curiosidade: gosto de livros de terror e podcast criminais 👻
 
-### 🐹 Aprendendo no momento
-* ☕️ POO ( com Java)
-* ✨ HTML, CSS, SASS - Grid Layout, Funções no SASS
-* ⭐️ JavaScript 
+### 📚 Aprendendo no momento
+* ☕️ Arquitetura de software
+* ⚛️ ReactJS
+* 🟢 NodeJS 
 * 💖 Usabilidade (UX) - Boas práticas
 
 ### 🙋🏻‍♂️ Vamos conversar
