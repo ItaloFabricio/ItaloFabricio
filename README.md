@@ -7,14 +7,14 @@ Oi visitante, me chamo ítalo Fabrício 😉. Sou um estudante de programação 
 ### 🐰 Informações básicas
 * 🌵 From PB 083
 * 🌐 Desenvolvedor Web 
-* 💻 Graduando em Ciência da Computação
+* 💻 Graduado em Ciência da Computação pela UFPB
 * 🧑 Pronomes: ele/dele
 * ⚡ Curiosidade: gosto de livros de terror e podcast criminais 👻
 
 ### 📚 Aprendendo no momento
 * ☕️ Arquitetura de software
-* ⚛️ ReactJS
-* 🟢 NodeJS 
+* 🅰️ Angular
+* 🐘 PHP 
 * 💖 Usabilidade (UX) - Boas práticas
 
 ### 🙋🏻‍♂️ Vamos conversar
